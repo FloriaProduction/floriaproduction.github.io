@@ -1,0 +1,1 @@
+import{s as e,t,u as n,v as r,x as i}from"./_plugin-vue_export-helper-Dpl6PU2l.js";var a={},o={class:`main`},s={class:`main__container`};function c(t,a){return r(),n(`main`,o,[e(`div`,s,[i(t.$slots,`default`)])])}var l=t(a,[[`render`,c]]);export{l as t};
